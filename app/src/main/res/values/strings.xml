@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label_android">Hello android</string>
+    <string name="label_btn">button</string>
+    <string name="input_tip">Input your name</string>
+</resources>
